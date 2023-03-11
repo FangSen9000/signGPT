@@ -1,2 +1,2 @@
 # signGPT
-AAAI 2023
+AAAI Conference 2023
