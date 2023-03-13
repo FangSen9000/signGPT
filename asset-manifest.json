@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/signGPT/static/css/main.15f76561.css",
+    "main.js": "/signGPT/static/js/main.eb0c290c.js",
+    "static/js/787.58e6f5f2.chunk.js": "/signGPT/static/js/787.58e6f5f2.chunk.js",
+    "static/media/signgpt.svg": "/signGPT/static/media/signgpt.11e17381d11cc3bf2ab08dd39702fda4.svg",
+    "index.html": "/signGPT/index.html",
+    "main.15f76561.css.map": "/signGPT/static/css/main.15f76561.css.map",
+    "main.eb0c290c.js.map": "/signGPT/static/js/main.eb0c290c.js.map",
+    "787.58e6f5f2.chunk.js.map": "/signGPT/static/js/787.58e6f5f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f76561.css",
+    "static/js/main.eb0c290c.js"
+  ]
+}
